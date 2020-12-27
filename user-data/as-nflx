@@ -64,7 +64,6 @@ add AS_nflx 192.173.79.0/24
 add AS_nflx 198.38.115.0/24
 add AS_nflx 192.173.65.0/24
 add AS_nflx 45.57.62.0/24
-add AS_nflx 10.0.0.0/8
 add AS_nflx 198.45.49.0/24
 add AS_nflx 192.173.87.0/24
 add AS_nflx 198.38.109.0/24
@@ -100,7 +99,6 @@ add AS_nflx 23.246.3.0/24
 add AS_nflx 198.38.99.0/24
 add AS_nflx 69.53.226.0/24
 add AS_nflx 37.77.184.0/24
-add AS_nflx 192.168.0.0/16
 add AS_nflx 23.246.7.0/24
 add AS_nflx 45.57.10.0/24
 add AS_nflx 45.57.15.0/24
