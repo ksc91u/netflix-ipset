@@ -1,6 +1,11 @@
 # netflix-ipset
 A simple tutorial of how to route netflix traffic to ISP, while other traffic can be routed to VPN. On EdgeRouter or other Linux routers supports IPSet.
 
+## Daily Updated IPSet file
+[https://nflx.ksc91u.info/as-nflx](https://nflx.ksc91u.info/as-nflx)
+
+If you have trouble restore from this file, try with ```-exist``` flag ```/sbin/ipset -exist restore < as-nflx```
+
 ## Netflix AS40027, AS2906
 You can find netflix AS on [bgpview.io](https://bgpview.io/search/netflix). Download all prefixes with [bgpview api](https://bgpview.docs.apiary.io/#reference/0/asn-prefixes/view-asn-prefixes).  
 
